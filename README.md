@@ -7,3 +7,4 @@
 ![image](https://github.com/dzNN13/INFORM-TICA_GPI/assets/163065808/7a9396f1-f11a-488d-82cf-70ec0de1cc84)
 [Funções.xlsx](https://github.com/dzNN13/INFORM-TICA_GPI/files/15083914/Funcoes.xlsx)
 ![image](https://github.com/dzNN13/INFORM-TICA_GPI/assets/163065808/eac0c680-1edd-4cf8-96ec-bdd381362932)
+![image](https://github.com/dzNN13/INFORM-TICA_GPI/assets/163065808/a311da56-bf60-4ffd-8638-5317bb0b3ae7)
