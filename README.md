@@ -5,3 +5,5 @@
 ![image](https://github.com/dzNN13/INFORM-TICA_GPI/assets/163065808/a4be3f6e-091b-4e1e-9e09-227acade82c5)
 [HORARIO_dinamica.xlsx](https://github.com/dzNN13/INFORM-TICA_GPI/files/15083898/HORARIO_dinamica.xlsx)
 ![image](https://github.com/dzNN13/INFORM-TICA_GPI/assets/163065808/7a9396f1-f11a-488d-82cf-70ec0de1cc84)
+[Funções.xlsx](https://github.com/dzNN13/INFORM-TICA_GPI/files/15083914/Funcoes.xlsx)
+![image](https://github.com/dzNN13/INFORM-TICA_GPI/assets/163065808/eac0c680-1edd-4cf8-96ec-bdd381362932)
