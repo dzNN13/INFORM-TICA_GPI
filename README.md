@@ -3,3 +3,5 @@
 ![image](https://github.com/dzNN13/INFORM-TICA_GPI/assets/163065808/3013cdbb-7f48-4988-83b5-0df524de452a)
 ![image](https://github.com/dzNN13/INFORM-TICA_GPI/assets/163065808/96220c15-1db6-47ae-a22e-97e3357f819d)
 ![image](https://github.com/dzNN13/INFORM-TICA_GPI/assets/163065808/a4be3f6e-091b-4e1e-9e09-227acade82c5)
+[HORARIO_dinamica.xlsx](https://github.com/dzNN13/INFORM-TICA_GPI/files/15083898/HORARIO_dinamica.xlsx)
+![image](https://github.com/dzNN13/INFORM-TICA_GPI/assets/163065808/7a9396f1-f11a-488d-82cf-70ec0de1cc84)
