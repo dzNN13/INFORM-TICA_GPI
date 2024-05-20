@@ -8,4 +8,5 @@
 [Funções.xlsx](https://github.com/dzNN13/INFORM-TICA_GPI/files/15083914/Funcoes.xlsx)
 ![image](https://github.com/dzNN13/INFORM-TICA_GPI/assets/163065808/eac0c680-1edd-4cf8-96ec-bdd381362932)
 ![image](https://github.com/dzNN13/INFORM-TICA_GPI/assets/163065808/a311da56-bf60-4ffd-8638-5317bb0b3ae7)
+![image](https://github.com/dzNN13/INFORM-TICA_GPI/assets/163065808/87cc6bea-4ae2-4250-9cf8-c35309a18085)
 
